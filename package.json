@@ -3,7 +3,7 @@
   "version": "1.5.1",
   "description": "Date range and single date picker for React Native (Supports iOS and Android)",
   "main": "types/index.d.ts",
-  "types": "./dist/main.js",
+  "types": "./dist/index.d.ts",
   "scripts": {},
   "repository": {
     "type": "git",
