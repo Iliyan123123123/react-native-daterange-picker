@@ -2,7 +2,7 @@
   "name": "react-native-daterange-picker",
   "version": "1.5.1",
   "description": "Date range and single date picker for React Native (Supports iOS and Android)",
-  "main": "types/index.d.ts",
+  "main": "./dist/index.d.ts",
   "types": "./dist/index.d.ts",
   "scripts": {},
   "repository": {
